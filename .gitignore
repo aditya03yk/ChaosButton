@@ -1,0 +1,32 @@
+# Secrets and local state
+.env
+*.db
+# Python
+__pycache__/
+.venv/
+.pytest_cache/
+# Node
+node_modules/
+frontend/dist/
+
+# Local environment and generated files
+.venv/
+.env
+.run/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+*.db
+.DS_Store
+
+# Local files
+.venv/
+.env
+.run/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+*.db
+.DS_Store
